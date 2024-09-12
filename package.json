@@ -1,5 +1,6 @@
 {
   "name": "quicksell-assignment",
+  "author": "Kapil Paliwal",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
