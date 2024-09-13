@@ -1,10 +1,17 @@
-# QuickSell Assignment for Frontend role
+# QuickSell Assignment for Frontend role - [Link](https://quicksell-assignment-kapil-paliwal.vercel.app/)
 
 ![QuickSell-Assignment-Page](https://res.cloudinary.com/dgpkeaffc/image/upload/v1726202630/Screenshot_2024-09-13_at_10.13.02_AM_v7cmry.png)
 
 # API
-They have given an api to fetch data and show it on our kanban board.
-Here is the link of that [API](https://api.quicksell.co/v1/internal/frontend-assignment)
+They have given an [api](https://api.quicksell.co/v1/internal/frontend-assignment) to fetch data and show it on our kanban board.
+
+`API = "https://api.quicksell.co/v1/internal/frontend-assignment"`
+
+# Flow of data in components
+At the starting we fetch data in App.js file and then with the help of props we will send this data to Grid.js --> Column.js --> Card.js
+
+Here is the breakdown of the flow of data.
+![data-flow-diagram](https://res.cloudinary.com/dgpkeaffc/image/upload/v1726205319/Screenshot_2024-09-13_at_10.58.15_AM_vvmohw.png)
 
 # Documentation
 
