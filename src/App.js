@@ -8,7 +8,6 @@ import Grid from './components/Grid';
 const GET_TICKETS_URL = process.env.REACT_APP_API_URL;
 
 function App() {
-    console.log(GET_TICKETS_URL);
     const [tickets, setTickets] = useState([]);
     const [userData, setUserData] = useState({});
     const [gridData, setGridData] = useState({});
