@@ -10,6 +10,8 @@ They have given an [api](https://api.quicksell.co/v1/internal/frontend-assignmen
 # Flow of data in components
 At the starting we fetch data in App.js file and then with the help of props we will send this data to Grid.js --> Column.js --> Card.js
 
+[View on Eraser![](https://app.eraser.io/workspace/UmKsJq9DDyjzlXqF6MSu/preview?elements=sOcd2eogzgXf8J6TT0ZnyA&type=embed)](https://app.eraser.io/workspace/UmKsJq9DDyjzlXqF6MSu?elements=sOcd2eogzgXf8J6TT0ZnyA)
+
 Here is the breakdown of the flow of data.
 ![data-flow-diagram](https://res.cloudinary.com/dgpkeaffc/image/upload/v1726205319/Screenshot_2024-09-13_at_10.58.15_AM_vvmohw.png)
 
